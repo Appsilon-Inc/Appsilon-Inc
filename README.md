@@ -10,7 +10,7 @@
   
 - 🔭 We're on a journey of exploration, seeking new opportunities & areas where our expertise can drive change and innovation.
 
-- 👨‍💻 We're interested in collaborating with like-minded individuals & organizations to push the boundaries of technology even further.
+- 👨‍💻 We're interested in collaborating with like-minded individuals & organizations to push the boundaries of tech even further.
 
 - 📝 Our future plans involve expanding our scope of influence, broadening our services, & continuing to make a difference.
 
