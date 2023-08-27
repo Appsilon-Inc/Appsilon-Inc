@@ -6,13 +6,13 @@
 
 <h3 align="left">About Us</h3>
 
-- 🌱 We're constantly engaged in creating innovative solutions that address various challenges and make a positive impact.
+- 🌱 We're constantly engaged in creating innovative solutions that address various challenges & make a positive impact.
   
-- 🔭 We're on a journey of exploration, seeking new opportunities and areas where our expertise can drive change and innovation.
+- 🔭 We're on a journey of exploration, seeking new opportunities & areas where our expertise can drive change and innovation.
 
-- 👨‍💻 We're interested in collaborating with like-minded individuals and organizations to push the boundaries of technology even further.
+- 👨‍💻 We're interested in collaborating with like-minded individuals & organizations to push the boundaries of technology even further.
 
-- 📝 Our future plans involve expanding our scope of influence, broadening our services, and continuing to make a difference.
+- 📝 Our future plans involve expanding our scope of influence, broadening our services, & continuing to make a difference.
 
 - 🚀 Visit us **https://appsilon-website-9546d.web.app/#/**
 
